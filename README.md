@@ -20,6 +20,10 @@
 | 2-1  |         행운의 로또 step1         | [javascript-lotto](https://github.com/jinhokim98/javascript-lotto/tree/step1) | [Link](https://github.com/woowacourse/javascript-lotto/pull/259) | - |    [파슬리(@anttiey)](https://github.com/anttiey)    |
 | 2-2  |         행운의 로또 step2         | [javascript-lotto](https://github.com/jinhokim98/javascript-lotto/tree/step2) | [Link](https://github.com/woowacourse/javascript-lotto/pull/302) | [Link](https://jinokim.tistory.com/11) |    -    |
 | 3-1  |         점심 뭐 먹지 step1         | [javascript-lunch](https://github.com/jinhokim98/javascript-lunch/tree/step1) | [Link](https://github.com/woowacourse/javascript-lunch/pull/118) | [Link](https://jinokim.tistory.com/16) |     [쑤쑤(@soosoo22)](https://github.com/soosoo22)     |
+| 3-2  |         점심 뭐 먹지 step2         | [javascript-lunch](https://github.com/jinhokim98/javascript-lunch/tree/step2) | [Link](https://github.com/woowacourse/javascript-lunch/pull/162) | - | - |
+| 4-1  |         영화 리뷰 step1         | [javascript-movie-review](https://github.com/jinhokim98/javascript-movie-review/tree/step1) | [Link](https://github.com/woowacourse/javascript-movie-review/pull/108) | - |     [토다리(@Todari)](https://github.com/Todari)     |
+| 4-2  |         영화 리뷰 step2         | [javascript-movie-review](https://github.com/jinhokim98/javascript-movie-review/tree/step2) | [Link](https://github.com/woowacourse/javascript-movie-review/pull/142) | - | - |
+| side  |         Crew-Wiki         | [Crew-Wiki](https://github.com/Crew-Wiki/frontend) | - | - | [토다리(@Todari)](https://github.com/Todari) [제이드(skiende74)](https://github.com/skiende74) |
 
 
 ## 🌱 precourse
