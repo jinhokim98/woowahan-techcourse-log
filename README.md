@@ -1,8 +1,40 @@
+## 🐤 Level-02
+
+### 🗓 기간
+
+-  2024.04.16 ~ 2024.06.14
+
+### 🎯 학습 목표
+
+- 핵심목표
+  + 결국 우리가 무엇을 하려고 하는거지? TDD관점으로 프로그램의 핵심부터 구현해나가는 연습하기 
+
+- 레벨1보다 복잡한 규모의 어플리케이션을 React와 TypeScript를 이용해 만들어본다.
+- 스토리북을 통하여, 컴포넌트 단위로 피드백을 받기 위한 테스트의 필요성을 경험해본다.
+- 유지보수하기 좋은 코드의 필요성을 경험하고, 어떻게 하면 유지보수하기 좋은 코드를 작성할 수 있을지 고민하고 적용해본다.
+- 주어진 디자인을 웹 표준을 준수하는 UI로 구현해보고, 프론트엔드 개발자로서 고려해야 할 UX에 대해 고민해본다.
+
+### 📝 기록
+
+
+| step |             name             |                          repository                          |                              PR                              |                            record                            |                       pair                       |
+| :--: | :--------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------: |
+| 1-1  |        페이먼츠 step1        |   [react-payments](https://github.com/jinhokim98/react-payments/tree/step1)   |                              [link](https://github.com/woowacourse/react-payments/pull/337)                               | - |    [시모(@simorimi)](https://github.com/simorimi)    |
+| 1-2  |         페이먼츠 step2          | [react-payments](https://github.com/jinhokim98/react-payments/tree/step2) | [Link](https://github.com/woowacourse/react-payments/pull/392) | - |    -    |
+| 2-1  |         페이먼츠 모듈 step1         | [react-modules](https://github.com/jinhokim98/react-modules/tree/step1) | [Link](https://github.com/woowacourse/react-modules/pull/15) | - |    [마루(@rbgksqkr)](https://github.com/rbgksqkr)    |
+| 2-2  |         페이먼츠 모듈 step2         | [react-modules](https://github.com/jinhokim98/react-modules/tree/step2) | [Link](https://github.com/woowacourse/react-modules/pull/55) | - |    -    |
+| 3-1  |         장바구니 step1         | [react-shopping-cart](https://github.com/jinhokim98/react-shopping-cart/tree/step1) | [Link](https://github.com/woowacourse/react-shopping-cart/pull/249) | - |     [올리(@ImxYJL)](https://github.com/ImxYJL)     |
+| 3-2  |         장바구니 step2         | [react-shopping-cart](https://github.com/jinhokim98/react-shopping-cart/tree/step2) | [Link](https://github.com/woowacourse/react-shopping-cart/pull/288) | - | - |
+| 4-1  |         상품목록 step1         | [react-shopping-products](https://github.com/jinhokim98/react-shopping-products/tree/step1) | [Link](https://github.com/woowacourse/react-shopping-products/pull/10) | - |     [바다(@BadaHertz52)](https://github.com/BadaHertz52)     |
+| 4-2  |         상품목록 step2         | [react-shopping-products](https://github.com/jinhokim98/react-shopping-products/tree/step2) | [Link](https://github.com/woowacourse/react-shopping-products/pull/45) | - | - |
+
+
+
 ## 🥚 Level-01
 
 ### 🗓 기간
 
--  2024.02.13 ~ 2021.04.05
+-  2024.02.13 ~ 2024.04.05
 
 ### 🎯 학습 목표
 
